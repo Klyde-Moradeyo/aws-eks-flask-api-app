@@ -17,7 +17,4 @@ The application is containerized using Docker, orchestrated with Kubernetes on A
 - Terraform
 - Flask (Python)
 
-## Setup & Deployment
-Instructions on setting up the development environment, building the Docker container, deploying to AWS EKS using Terraform, and configuring CI/CD pipelines.
-
 
